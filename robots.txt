@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kurniaandi.github.io/readme-igy1op/sitemap.xml
